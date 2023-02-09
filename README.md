@@ -6,7 +6,7 @@ This project is designed to predict the stock price of a particular company usin
 ### Data Collection
 The data for this project is collected from a reputable source such as Yahoo Finance or Google Finance. The data includes information such as the opening price, closing price, highest price, lowest price, and trading volume of the stock for a given period.
 
-!https://www.kaggle.com/competitions/titanic/overview
+https://www.kaggle.com/competitions/titanic/overview
 
 ### Data Preprocessing
 The data collected is then preprocessed to ensure that it is in a suitable format for building the machine learning model. This may include cleaning the data, dealing with missing values, and normalizing the data.
