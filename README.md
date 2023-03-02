@@ -43,5 +43,10 @@ The model used for this problem was logistic regression.
 Accuracy score was 0.84 and other metrics I used was confusion matrix. <br>
   ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/photoos/correlation.png?raw=true)<br>
 
+    ## Result by module
+ Here are the results on test set: <br>   
+ ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/photoos/survived%20by%20module.png?raw=true) <br>
+
+
     ## Submission
   For this competition I have reached score  0.78708
