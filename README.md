@@ -17,3 +17,11 @@ Columns include:
 - fare	: 	Passenger fare	
 - cabin		: Cabin number	
 - embarked		: Port of Embarkation	: 	C = Cherbourg, Q = Queenstown, S = Southampton
+
+  
+  Submission 
+  For this competition I have reached score  0.78708
+  
+  ## Analysis
+  
+  ![Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
