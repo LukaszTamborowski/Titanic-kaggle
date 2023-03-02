@@ -23,8 +23,7 @@ Columns include:
 - embarked		: Port of Embarkation	: 	C = Cherbourg, Q = Queenstown, S = Southampton
 
   
-  Submission 
-  For this competition I have reached score  0.78708
+
   
   ## Analysis
   First graph presents how many males and females are in the dataset<br>
@@ -45,3 +44,4 @@ Accuracy score was 0.84 and other metrics I used was confusion matrix. <br>
   ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/photoos/correlation.png?raw=true)<br>
 
     ## Submission
+  For this competition I have reached score  0.78708
