@@ -46,7 +46,6 @@ Accuracy score was 0.84 and other metrics I used was confusion matrix. <br>
    ## Result by module
  Here are the results on test set: <br>   
  ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/photoos/survived%20by%20module.png?raw=true) <br>
+  
+ ## Submission
 
-
-    ## Submission
-  For this competition I have reached score  0.78708
