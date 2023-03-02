@@ -6,7 +6,7 @@ In this competition, the <b>goal</b> is to perform a 2-label <b>classification p
 
   Here's the sample of the dataset: <br>
   
-    ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/data%20view.png?raw=true) <br>
+ ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/data%20view.png?raw=true) <br>
   
 Columns include: 
 - Variable :	Definition	: Key
