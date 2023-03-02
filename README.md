@@ -50,4 +50,4 @@ Accuracy score was 0.84 and other metrics I used was confusion matrix. <br>
  ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/photoos/survived%20by%20module.png?raw=true) <br>
   
  ## Submission
-
+ ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/submit.png?raw=true)
