@@ -23,7 +23,7 @@ Columns include:
   For this competition I have reached score  0.78708
   
   ## Analysis
-  First graph presents how many males and females aare in the dataset<br>
+  First graph presents how many males and females are in the dataset<br>
   ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/photoos/male%20female%20dash.png?raw=true)<br>
 
    ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/photoos/Passengers%20by%20fare.png?raw=true)
