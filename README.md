@@ -34,9 +34,9 @@ Second graph shows how many people survived or died grouped by fare<br>
   ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/photoos/passengers%20by%20class.png?raw=true)<br>
   
   ## Missing Data
- There was a problem with missing data in age so I decided to  fill missing gaps with median age by sex.
-    median_age_men_2 = df_2[df_2.Sex == 1]["Age"].median()
-    median_age_women_2 = df_2[df_2.Sex == 0]["Age"].median()
+ There was a problem with missing data in age so I decided to  fill missing gaps with median age by sex.<br>
+    median_age_men_2 = df_2[df_2.Sex == 1]["Age"].median() <br>
+    median_age_women_2 = df_2[df_2.Sex == 0]["Age"].median()<br>
  
    ## Modeling
 
