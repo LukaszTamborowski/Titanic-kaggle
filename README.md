@@ -25,5 +25,6 @@ Columns include:
   ## Analysis
   
   ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/photoos/male%20female%20dash.png?raw=true)
+   ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/photoos/Passengers%20by%20fare.png?raw=true)
   ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/photoos/passengers%20by%20class.png?raw=true)
- ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/photoos/Passengers%20by%20fare.png?raw=true)
+
