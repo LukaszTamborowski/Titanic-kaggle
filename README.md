@@ -25,7 +25,7 @@ Columns include:
   ## Analysis
   First graph presents how many males and females are in the dataset<br>
   ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/photoos/male%20female%20dash.png?raw=true)<br>
-
+Second graph shows how many 
    ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/photoos/Passengers%20by%20fare.png?raw=true)
   ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/photoos/passengers%20by%20class.png?raw=true)
 
