@@ -35,6 +35,8 @@ Second graph shows how many people survived or died grouped by fare<br>
   
   ## Missing Data
  There was a problem with missing data in age so I decided to  fill missing gaps with median age by sex.
+    median_age_men_2 = df_2[df_2.Sex == 1]["Age"].median()
+    median_age_women_2 = df_2[df_2.Sex == 0]["Age"].median()
  
    ## Modeling
 
