@@ -38,5 +38,5 @@ Second graph shows how many people survived or died grouped by fare<br>
 The data was split by train test split function with proportion 80% train set 20% test set
 The model used for this problem was logistic regression.
 Accuracy score was 0.84 and other metrics I used was confusion matrix.
-  !(https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/photoos/correlation.png?raw=true)
+  ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/photoos/correlation.png?raw=true)
 
