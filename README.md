@@ -27,5 +27,6 @@ Columns include:
   ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/photoos/male%20female%20dash.png?raw=true)<br>
 Second graph shows how many people survived or died grouped by fare<br>
    ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/photoos/Passengers%20by%20fare.png?raw=true)<br>
+  Third graph shows people that are sorted by class aboard
   ![Titanic Kaggle](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/photoos/passengers%20by%20class.png?raw=true)<br>
 
