@@ -24,4 +24,4 @@ Columns include:
   
   ## Analysis
   
-  !(https://github.com/LukaszTamborowski/Titanic-kaggle/tree/main/photoos/)
+  !(https://github.com/LukaszTamborowski/Titanic-kaggle/tree/main/photoos/male female dash.png)
