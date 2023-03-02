@@ -24,4 +24,4 @@ Columns include:
   
   ## Analysis
   
-  !(photoos/male_female_dash.png)
+  ![Stock_price_predicion](photoos/male_female_dash.png)
