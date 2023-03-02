@@ -24,4 +24,4 @@ Columns include:
   
   ## Analysis
   
-  ![Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
+  !(https://github.com/LukaszTamborowski/Titanic-kaggle/tree/main/photoos)
