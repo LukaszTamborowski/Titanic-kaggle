@@ -24,4 +24,4 @@ Columns include:
   
   ## Analysis
   
-  ![Stock_price_predicion](photoos/male_female_dash.png)
+  ![Stock_price_predicion]([photoos/male_female_dash.png](https://github.com/LukaszTamborowski/Titanic-kaggle/blob/main/photoos/male%20female%20dash.png?raw=true))
