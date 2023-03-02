@@ -7,7 +7,7 @@ In this competition, the <b>goal</b> is to perform a 2-label <b>classification p
 Columns include: 
 Variable -	Definition	- Key
   
-survival	- Survival	- 0 = No, 1 = Yes
+- survival	- Survival	- 0 = No, 1 = Yes
 pclass	- Ticket class -	1 = 1st, 2 = 2nd, 3 = 3rd
 sex	- Sex	
 Age	Age in years	
