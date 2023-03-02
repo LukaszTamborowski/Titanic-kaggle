@@ -35,4 +35,5 @@ Second graph shows how many people survived or died grouped by fare<br>
  
    ## Modeling
 
-
+The data was split by train test split function with proportion 80% train set 20% test set
+The modelu used for this problem was logistic regression
